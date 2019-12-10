@@ -1,2 +1,2 @@
-# DAS-sonde
+# University of Illinois DAS-sonde
 A repository for DAS radiosonde data and scripts
