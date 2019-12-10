@@ -1,2 +1,2 @@
 # University of Illinois DAS-sonde
-A repository for DAS radiosonde data and scripts
+A repository for radiosonde data and analytical python notebooks 
